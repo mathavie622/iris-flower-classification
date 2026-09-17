@@ -100,7 +100,7 @@ The classification report provides precision, recall, and F1-score for each Iris
 
 The confusion matrix shows the actual and predicted classifications of the test samples.
 
-![Confusion Matrix](confusion_matrix.png)
+https://drive.google.com/file/d/1a5TGdQ_xzw4IVip-V5zqx7vt8StI6KIE/view?usp=sharing
 
 ## Sample Prediction
 

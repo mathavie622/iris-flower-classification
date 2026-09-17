@@ -63,7 +63,7 @@ The dataset contains four numerical features:
 
 The Iris dataset was visualized using a scatter plot based on petal length and petal width.
 
-![Iris Flower Scatter Plot](iris_scatter_plot.png)
+https://drive.google.com/file/d/1blnMtrCFr2_uT0CupUPShvz8U984NO4a/view?usp=sharing
 
 ## Model Used
 
